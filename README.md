@@ -5,7 +5,7 @@ following apna-college tutorial
 ```python
 git config --global user.name "*username*"
 git config --global user.email "*email address*"
-git config <br><br> #to check all
+git config #to check all
 ```
 
 **2. clone n status**<br>

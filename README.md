@@ -2,11 +2,11 @@
 following apna-college tutorial
 <br><br>
 **1. CONFIG** <br>
-'''python
-git config --global user.name "*username*"<br>
-git config --global user.email "*email address*"<br>
-git config <br><br> # to check all
-'''
+```python
+git config --global user.name "*username*"
+git config --global user.email "*email address*"
+git config <br><br> #to check all
+```
 
 **2. clone n status**<br>
 git clone *git link* : to clone git repository into local (laptop/ pc)<br>
